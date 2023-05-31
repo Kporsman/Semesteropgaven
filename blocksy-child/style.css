@@ -1,0 +1,19 @@
+/*
+Theme Name: Blocksy Child
+Author URI: https://kporsman.dk
+Version: 1.8.88.1685354622
+Updated: 2023-05-29 10:03:42
+
+*/
+.try {
+    position: relative;
+  }
+  
+  .center {
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
+
